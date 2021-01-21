@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+    <testsuite name="pytest" errors="0" failures="0" skipped="0" tests="3" time="103.946"
+               timestamp="2021-01-12T10:59:52.170872" hostname="LAPTOP-86MVQ201">
+        <testcase classname="test_Employee.TestEmployee" name="test_login[abu-abu@gmail.com]" time="36.486"/>
+        <testcase classname="test_Employee.TestEmployee" name="test_login[mani-mani@gmail.com]" time="32.426"/>
+        <testcase classname="test_Employee.TestEmployee" name="test_login[guna-guna@gmail.com]" time="34.216"/>
+    </testsuite>
+</testsuites>

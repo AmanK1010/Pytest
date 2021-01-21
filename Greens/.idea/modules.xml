@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Adactin/.idea/Adactin.iml" filepath="$PROJECT_DIR$/../Adactin/.idea/Adactin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Framework10.00AM/.idea/Framework10.00AM.iml" filepath="$PROJECT_DIR$/../Framework10.00AM/.idea/Framework10.00AM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Greens.iml" filepath="$PROJECT_DIR$/.idea/Greens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PyUnit/.idea/PyUnit.iml" filepath="$PROJECT_DIR$/../PyUnit/.idea/PyUnit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Pytest/.idea/Pytest.iml" filepath="$PROJECT_DIR$/../Pytest/.idea/Pytest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python10.00AM/.idea/Python10.00AM.iml" filepath="$PROJECT_DIR$/../Python10.00AM/.idea/Python10.00AM.iml" />
+    </modules>
+  </component>
+</project>
